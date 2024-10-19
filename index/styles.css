@@ -17,6 +17,9 @@
           position: relative;
           overflow: hidden;
       }
+      .tab {
+        background-color: #87CEEB;
+      }
       
       .sky {
           background: linear-gradient(to top, #6db3f2, #1e5f74);
